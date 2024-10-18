@@ -11,7 +11,7 @@ This project is essentially a "for fun education" for me personally. But if anyo
 Your own Api Key and AppId from tradera : https://api.tradera.com/
 Your own Api Key from OpenAi (either Azure or OpenAi).
 
-# Want to check prices for a diffrent object?
+### Want to check prices for a diffrent object?
 Change the url parameters sent to tradera for your specific object. Tradera needs a category ID aswell which is a pain, as you need to fetch it first with a seperate request.
  
 ## How It Works
